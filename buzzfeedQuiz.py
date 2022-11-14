@@ -33,8 +33,8 @@ def ques2():
 def ques3():
     quesLabel.config(text="Top 10 streamers")
     R1.config(text="Ninja Fortnite")
-    R2.config(text="Jerma Ablertson")
-    R3.config(text="Ludwig Mogul Bethooven")
+    R2.config(text="Ludwig Mogul Bethooven")
+    R3.config(text="Jerma Ablertson")
     R4.config(text="Sodapoppin")
 def ques4():
     quesLabel.config(text="The Industrial Revolution and its Consquences\n is written by who?")
