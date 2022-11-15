@@ -3,6 +3,8 @@ from PIL import ImageTk, Image
 scrn = Tk()
 scrn.geometry("600x400")
 
+print("\033[H\033[J")
+
 scores = [0, 0, 0, 0]
 highscore = 0
 finAns = 0
